@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\scoala\\Limbaje formale\\Lab1\\Ex4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92AE2C8E-8540-4AF7-BF7A-C416212DBEA3}|Ex4\\Ex4.vcxproj|D:\\scoala\\Limbaje formale\\Lab1\\Ex4\\Ex4\\Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92AE2C8E-8540-4AF7-BF7A-C416212DBEA3}|Ex4\\Ex4.vcxproj|solutionrelative:Ex4\\Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex4.cpp",
+              "DocumentMoniker": "D:\\scoala\\Limbaje formale\\Lab1\\Ex4\\Ex4\\Ex4.cpp",
+              "RelativeDocumentMoniker": "Ex4\\Ex4.cpp",
+              "ToolTip": "D:\\scoala\\Limbaje formale\\Lab1\\Ex4\\Ex4\\Ex4.cpp",
+              "RelativeToolTip": "Ex4\\Ex4.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T14:38:45.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

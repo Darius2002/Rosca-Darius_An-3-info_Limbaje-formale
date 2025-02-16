@@ -1,0 +1,4 @@
+﻿  Ex2.cpp
+D:\scoala\Limbaje formale\Lab1\Ex2\Ex2\Ex2.cpp(129,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\scoala\Limbaje formale\Lab1\Ex2\Ex2\Ex2.cpp(132,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Ex2.vcxproj -> D:\scoala\Limbaje formale\Lab1\Ex2\x64\Debug\Ex2.exe
