@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab5\\Ex1\\Ex1Mealy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF785-791C-4821-B197-F21E6F4CADBA}|Ex1Mealy\\Ex1Mealy.vcxproj|C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab5\\Ex1\\Ex1Mealy\\Ex1Mealy\\Ex1Mealy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B0AF785-791C-4821-B197-F21E6F4CADBA}|Ex1Mealy\\Ex1Mealy.vcxproj|solutionrelative:Ex1Mealy\\Ex1Mealy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex1Mealy.cpp",
+              "DocumentMoniker": "C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab5\\Ex1\\Ex1Mealy\\Ex1Mealy\\Ex1Mealy.cpp",
+              "RelativeDocumentMoniker": "Ex1Mealy\\Ex1Mealy.cpp",
+              "ToolTip": "C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab5\\Ex1\\Ex1Mealy\\Ex1Mealy\\Ex1Mealy.cpp",
+              "RelativeToolTip": "Ex1Mealy\\Ex1Mealy.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwFYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T09:20:57.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

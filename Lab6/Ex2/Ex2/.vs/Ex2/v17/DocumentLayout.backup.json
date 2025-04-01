@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab6\\Ex2\\Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D69CB95-C0DB-4844-8682-2939DA7ED230}|Ex2\\Ex2.vcxproj|C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab6\\Ex2\\Ex2\\Ex2\\Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D69CB95-C0DB-4844-8682-2939DA7ED230}|Ex2\\Ex2.vcxproj|solutionrelative:Ex2\\Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab6\\Ex2\\Ex2\\Ex2\\Ex2.cpp",
+              "RelativeDocumentMoniker": "Ex2\\Ex2.cpp",
+              "ToolTip": "C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab6\\Ex2\\Ex2\\Ex2\\Ex2.cpp",
+              "RelativeToolTip": "Ex2\\Ex2.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T09:43:18.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

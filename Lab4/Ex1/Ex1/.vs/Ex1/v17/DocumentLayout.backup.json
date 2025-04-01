@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab4\\Ex1\\Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7422A11-810E-411B-B7D3-BC09A1FA08ED}|Ex1\\Ex1.vcxproj|C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab4\\Ex1\\Ex1\\Ex1\\Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7422A11-810E-411B-B7D3-BC09A1FA08ED}|Ex1\\Ex1.vcxproj|solutionrelative:Ex1\\Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex1.cpp",
+              "DocumentMoniker": "C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab4\\Ex1\\Ex1\\Ex1\\Ex1.cpp",
+              "RelativeDocumentMoniker": "Ex1\\Ex1.cpp",
+              "ToolTip": "C:\\Users\\rosca\\OneDrive - Universitatea de Medicin\u0103, Farmacie, \u0218tiin\u021Be \u0219i Tehnologie George Emil Palade din T\u00E2rgu Mure\u0219\\scoala\\Limbaje formale\\Lab4\\Ex1\\Ex1\\Ex1\\Ex1.cpp",
+              "RelativeToolTip": "Ex1\\Ex1.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAG8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T15:46:28.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
